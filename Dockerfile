@@ -31,6 +31,7 @@ RUN apk --update --no-cache add \
     php7-ldap \
     php7-mbstring \
     php7-openssl \
+    php7-pdo_sqlite \
     php7-session \
     php7-sqlite3 \
     php7-xml \
